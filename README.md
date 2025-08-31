@@ -10,5 +10,10 @@ Nun wollen wir mit der Hilfe von Type-Annotationen den Code verbessern.
 
 ## Code Starten
 
+### Als Javascript File ausführen:
+
 `node ./src/main.ts`
 
+### Mit Typescript Parser Starten:
+
+`npm run dev`
