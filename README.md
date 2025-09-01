@@ -12,7 +12,7 @@ Nun wollen wir mit der Hilfe von Type-Annotationen den Code verbessern.
 
 ### Als Javascript File ausführen:
 
-`node ./src/main.ts`
+`node ./src/index.ts`
 
 ### Mit Typescript Parser Starten:
 
